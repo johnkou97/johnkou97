@@ -94,7 +94,7 @@
     <a href="mailto:koutalios@mail.strw.leidenuniv.nl" target="_blank">
         <img style="margin:0 10px 10px 0;" src="https://www.svgrepo.com/show/511921/email-1573.svg" alt="gmail" width="40px"/>
     </a>
-    <a href="mailto:koutalios@mail.strw.leidenuniv.nl" target="_blank">
+    <a href="https://www.linkedin.com/in/koutalios-ioannis/" target="_blank">
         <img style="margin:0 10px 10px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="gmail" width="40px"/>
     </a>
 
