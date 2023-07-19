@@ -24,6 +24,9 @@
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
       <img  alt="Pytorch" height="50px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"/>
   </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+      <img  alt="MySQL" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+  </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
       <img  alt="C" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
   </a>
@@ -92,11 +95,16 @@
         <img style="margin:0 10px 10px 0;" src="https://www.svgrepo.com/show/217146/gmail.svg" alt="gmail" width="40px"/>
     </a>
     <a href="mailto:koutalios@mail.strw.leidenuniv.nl" target="_blank">
-        <img style="margin:0 10px 10px 0;" src="https://www.svgrepo.com/show/511921/email-1573.svg" alt="gmail" width="40px"/>
+        <img style="margin:0 10px 10px 0;" src="https://www.svgrepo.com/show/511921/email-1573.svg" alt="mail_leiden" width="40px"/>
+    </a>
+    <a href="mailto:iokoutal@physics.auth.gr" target="_blank">
+        <img style="margin:0 10px 10px 0;" src="https://www.svgrepo.com/show/502395/mail.svg" alt="mail_auth" width="40px"/>
     </a>
     <a href="https://www.linkedin.com/in/koutalios-ioannis/" target="_blank">
         <img style="margin:0 10px 10px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="gmail" width="40px"/>
     </a>
+
+
 
     
 </div>
