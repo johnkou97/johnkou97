@@ -10,7 +10,7 @@
 <h2 style="color: #44AEFB">About Me</h2>
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
-    I am a graduate student researcher in Astronomy and Data Science at Leiden University and a member of the <a href="https://www.universiteitleiden.nl/en/science/strw" target="_blank" rel="noreferrer">Leiden Observatory</a>. I am currently working on my MSc thesis on the topic of "A cross-power model for power suppression in FLAMINGO". My previous research project in Leiden was on the topic of "Finding the best exoplanets to search for exomoons by radial velocity".
+    I am a graduate student researcher in Astronomy and Data Science at Leiden University and a member of the <a href="https://local.strw.leidenuniv.nl/" target="_blank" rel="noreferrer">Leiden Observatory</a>. I am currently working on my MSc thesis on the topic of "A cross-power model for power suppression in FLAMINGO". My previous research project in Leiden was on the topic of "Finding the best exoplanets to search for exomoons by radial velocity".
     <br>
     I obtained my BSc in Physics from the <a href="https://www.auth.gr/en" target="_blank" rel="noreferrer">Aristotle University of Thessaloniki</a> in 2020. I was a part of the <a href="https://niksterg.github.io/gw-group/" target="_blank" rel="noreferrer">Gravitational Waves Group</a> of the <a href="https://www.astro.auth.gr/n/" target="_blank" rel="noreferrer">Section of Astrophysics, Astronomy and Mechanics</a>, where I worked on the topic of "Spectral Classification of Neutron Star Post-Merger Gravitational Wave Emission".
     <br>
