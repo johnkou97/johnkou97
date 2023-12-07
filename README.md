@@ -14,7 +14,7 @@
     <br>
     I obtained my BSc in Physics from the <a href="https://www.auth.gr/en" target="_blank" rel="noreferrer">Aristotle University of Thessaloniki</a> in 2020. I was a part of the <a href="https://niksterg.github.io/gw-group/" target="_blank" rel="noreferrer">Gravitational Waves Group</a> of the <a href="https://www.astro.auth.gr/n/" target="_blank" rel="noreferrer">Section of Astrophysics, Astronomy and Mechanics</a>, where I worked on the topic of "Spectral Classification of Neutron Star Post-Merger Gravitational Wave Emission".
     <br>
-    My other interests include Data Science, Machine Learning, Deep Learning, Reinforcement Learning, Statistics and much more. I am also a big fan of Linux and open-source software. I have worked on many projects in the past, some as a part of my studies and some as a hobby.
+    My other interests include Data Science, Machine Learning, Deep Learning, Reinforcement Learning, Statistics and much more. I am currently working on a project on the topic of "Reinforcement Learning for Adaptive Optics and Exoplanet Imaging". The public repository of the project can be found <a href="https://github.com/johnkou97/AdaptiveOptics " target="_blank" rel="noreferrer">here</a>. I am also a big fan of Linux and open-source software. I have worked on many projects in the past, some as a part of my studies and some as a hobby.
 <!-- Languages and Tools -->
 
 <h2 style="color: #44AEFB">Languages and Tools</h2>
