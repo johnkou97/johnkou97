@@ -106,7 +106,7 @@
         <img style="margin:0 10px 10px 0;" src="https://www.svgrepo.com/show/217146/gmail.svg" alt="gmail" width="40px"/>
     </a>
     <a href="mailto:koutalios@mail.strw.leidenuniv.nl" target="_blank">
-        <img style="margin:0 10px 10px 0;" src="https://www.svgrepo.com/show/511921/email-1573.svg" alt="mail_leiden" width="40px"/>
+        <img style="margin:0 10px 10px 0;" src="https://www.svgrepo.com/show/533210/mail-open.svg" alt="mail_leiden" width="40px"/>
     </a>
     <a href="mailto:iokoutal@physics.auth.gr" target="_blank">
         <img style="margin:0 10px 10px 0;" src="https://www.svgrepo.com/show/502395/mail.svg" alt="mail_auth" width="40px"/>
