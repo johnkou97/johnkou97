@@ -2,7 +2,7 @@
 
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
-   Graduate Student Researcher in Astronomy and Data Science at Leiden University.
+   Astrophysicist and Data Scientist. M.Sc. in Astronomy and Data Science at Leiden University. B.Sc. in Physics at the Aristotle University of Thessaloniki. You can also check my website at [https://johnkou97.github.io/](https://johnkou97.github.io/).
 <br>
 <br>
 
