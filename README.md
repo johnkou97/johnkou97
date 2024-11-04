@@ -3,7 +3,7 @@
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
 
-   Astrophysicist and Data Scientist. M.Sc. in Astronomy and Data Science at Leiden University. B.Sc. in Physics at the Aristotle University of Thessaloniki. You can also check my website at [johnkou97.github.io/](https://johnkou97.github.io/).
+   Astrophysicist and Data Scientist. M.Sc. in Astronomy and Data Science at Leiden University. B.Sc. in Physics at the Aristotle University of Thessaloniki. You can also check my website at [koutalios.space/](http://koutalios.space/).
 <br>
 <br>
 
