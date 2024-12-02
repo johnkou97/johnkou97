@@ -1,39 +1,43 @@
-<h1 style="color: #44AEFB;"> Ioannis Koutalios </h1>
+<h1 align="center" style="color: #44AEFB;"> Ioannis Koutalios </h1>
 
-<p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
-
-**Astrophysicist | Data Scientist | Machine Learning Enthusiast**
+<p align="center" style="margin: 0 50px; font-size: 17px;">
+  <strong>Astrophysicist | Data Scientist | Machine Learning Enthusiast</strong>
+</p>
+<br>
 
 <p align="center">
 <a target="_blank" rel="noreferrer noopener" href="https://koutalios.space/"><img src="https://img.shields.io/badge/Website-149c90?style=for-the-badge&logo=iterm2&logoColor=white alt="Website" /></a>&nbsp;
 <a target="_blank" rel="noreferrer noopener" href="https://www.linkedin.com/in/koutalios-ioannis/"><img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white alt="LinkedIn" /></a>&nbsp;
 <a target="_blank" rel="noreferrer noopener" href="mailto:jkoutalios@gmail.com"><img src="https://img.shields.io/badge/Email-ff69b4?style=for-the-badge&logo=gmail&logoColor=white alt="Email" /></a>&nbsp;
 </p>
-<!-- <br /> -->
-<p align="center"></p>
-<p></p>
 
-Welcome to my GitHub profile! Here, you'll find a collection of my work in **data science**, **artificial intelligence**, and **astrophysics**, reflecting my passion for leveraging cutting-edge technology to solve complex problems.
 
-<!-- Begin About Me -->
-<h2 style="color: #44AEFB">About Me</h2>
-
-<p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
-
-I am a graduate of the [M.Sc. program in Astronomy and Data Science](https://www.universiteitleiden.nl/en/education/study-programmes/master/astronomy/astronomy-and-data-science) at [Leiden University](https://www.universiteitleiden.nl/en), with a [B.Sc. in Physics](https://www.physics.auth.gr/en/) from [Aristotle University of Thessaloniki](https://www.auth.gr/en). My research interests span:  
-
-- **Machine and Deep Learning**  
-- **Reinforcement Learning**  
-- **Data Science and Statistics**  
-- **Astrophysical Simulations**  
-
-I am always excited about open-source projects, collaborative learning, and applying AI to new challenges.
-
+<p align="center">
+  Welcome to my GitHub profile! Here, you'll find a collection of my work in <strong>data science</strong>, <strong>artificial intelligence</strong>, and <strong>astrophysics</strong>, reflecting my passion for leveraging cutting-edge technology to solve complex problems.
 </p>
 
-<!-- Languages and Tools -->
+<!-- Begin About Me -->
+<h2 align="center" style="color: #44AEFB;">About Me</h2>
 
-<h2 style="color: #44AEFB">Languages and Tools</h2>
+<p align="center" style="margin: 0 50px; font-size: 17px;">
+  I am a graduate of the <a href="https://www.universiteitleiden.nl/en/education/study-programmes/master/astronomy/astronomy-and-data-science">M.Sc. program in Astronomy and Data Science</a> at <a href="https://www.universiteitleiden.nl/en">Leiden University</a>, with a <a href="https://www.physics.auth.gr/en/">B.Sc. in Physics</a> from <a href="https://www.auth.gr/en">Aristotle University of Thessaloniki</a>. My research interests span:
+</p>
+
+<ul align="center" style="list-style-position: inside; text-align: left; display: inline-block;">
+  <li><strong>Machine and Deep Learning</strong></li>
+  <li><strong>Reinforcement Learning</strong></li>
+  <li><strong>Data Science and Statistics</strong></li>
+  <li><strong>Astrophysical Simulations</strong></li>
+</ul>
+
+<p align="center" style="margin: 0 50px; font-size: 17px;">
+  I am always excited about open-source projects, collaborative learning, and applying AI to new challenges.
+</p>
+
+
+<!-- Languages and Tools -->
+<h2 align="center" style="color: #44AEFB;">Languages and Tools</h2>
+
 <div align="center" style="display:block;">
 </div>
 <br>   
@@ -95,8 +99,7 @@ I am always excited about open-source projects, collaborative learning, and appl
 <br>
 
 <!-- Statistics -->
-
-<h2 style="color: #44AEFB">Statistics</h2>
+<h2 align="center" style="color: #44AEFB;">Statistics</h2>
 
 <!-- Begin Stats Cards -->
 <!-- Resources:  -->
