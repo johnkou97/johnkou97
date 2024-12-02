@@ -1,23 +1,19 @@
 <h1 style="color: #44AEFB;"> Ioannis Koutalios </h1>
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
- 
+
 **Astrophysicist | Data Scientist | Machine Learning Enthusiast**
 
+<p align="center">
+<a target="_blank" rel="noreferrer noopener" href="https://koutalios.space/"><img src="https://img.shields.io/badge/Website-149c90?style=for-the-badge&logo=iterm2&logoColor=white alt="Website" /></a>&nbsp;
+<a target="_blank" rel="noreferrer noopener" href="https://www.linkedin.com/in/koutalios-ioannis/"><img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white alt="LinkedIn" /></a>&nbsp;
+<a target="_blank" rel="noreferrer noopener" href="mailto:jkoutalios@gmail.com"><img src="https://img.shields.io/badge/Email-ff69b4?style=for-the-badge&logo=gmail&logoColor=white alt="Email" /></a>&nbsp;
+</p>
+<!-- <br /> -->
+<p align="center"></p>
+<p></p>
+
 Welcome to my GitHub profile! Here, you'll find a collection of my work in **data science**, **artificial intelligence**, and **astrophysics**, reflecting my passion for leveraging cutting-edge technology to solve complex problems.
-
-<!-- Begin Connect With Me -->
-<h2 style="color: #44AEFB">Connect With Me 🌟</h2>
-
-<p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
-
-🌐 Personal Website: [koutalios.space/](https://koutalios.space/) 
-
-🧑 LinkedIn: [in/koutalios-ioannis/](https://www.linkedin.com/in/koutalios-ioannis/)  
-
-✉️ Email: [jkoutalios@gmail.com](mailto:jkoutalios@gmail.com)
-<br>
-<br>
 
 <!-- Begin About Me -->
 <h2 style="color: #44AEFB">About Me</h2>
@@ -34,8 +30,6 @@ I am a graduate of the [M.Sc. program in Astronomy and Data Science](https://www
 I am always excited about open-source projects, collaborative learning, and applying AI to new challenges.
 
 </p>
-
----
 
 <!-- Languages and Tools -->
 
