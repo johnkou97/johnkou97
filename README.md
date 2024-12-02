@@ -1,9 +1,21 @@
 <h1 style="color: #44AEFB;"> Ioannis Koutalios </h1>
 
+<p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
+ 
+**Astrophysicist | Data Scientist | Machine Learning Enthusiast**
+
+Welcome to my GitHub profile! Here, you'll find a collection of my work in **data science**, **artificial intelligence**, and **astrophysics**, reflecting my passion for leveraging cutting-edge technology to solve complex problems.
+
+<!-- Begin Connect With Me -->
+<h2 style="color: #44AEFB">Connect With Me 🌟</h2>
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
 
-   Astrophysicist and Data Scientist. M.Sc. in Astronomy and Data Science at Leiden University. B.Sc. in Physics at the Aristotle University of Thessaloniki. You can also check my website at [koutalios.space/](http://koutalios.space/).
+🌐 Personal Website: [koutalios.space/](https://koutalios.space/) 
+
+🧑 LinkedIn: [in/koutalios-ioannis/](https://www.linkedin.com/in/koutalios-ioannis/)  
+
+✉️ Email: [jkoutalios@gmail.com](mailto:jkoutalios@gmail.com)
 <br>
 <br>
 
@@ -12,11 +24,19 @@
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
 
-I am a graduate of the [MSc in Astronomy and Data Science](https://www.universiteitleiden.nl/en/education/study-programmes/master/astronomy/astronomy-and-data-science) program at [Leiden Observatory](https://local.strw.leidenuniv.nl/), [Leiden University](https://www.universiteitleiden.nl/en). During my studies, I have worked on various research projects in the field of Astronomy and Data Science, as part of my two theses, my courses and as an independent project. My Master's thesis was on the topic of "A cross-power model for power suppression in FLAMINGO". My first-year thesis was on the topic of "Finding the best exoplanets to search for exomoons by radial velocity". I have also worked on a project on the topic of "Reinforcement Learning for Adaptive Optics and Exoplanet Imaging". The project's public repository can be found [here](https://github.com/johnkou97/AdaptiveOptics).
-  
-I obtained my BSc in Physics from the [Aristotle University of Thessaloniki](https://www.auth.gr/en) in 2020. I was a part of the [Gravitational Waves Group](https://niksterg.github.io/gw-group/) of the [Section of Astrophysics, Astronomy and Mechanics](https://www.astro.auth.gr/n/), where I worked on the topic of "Spectral Classification of Neutron Star Post-Merger Gravitational Wave Emission". After graduation, I have kept working with the group as a research assistant. Our work on "Predicting binary neutron star postmerger spectra using artificial neural networks" has been published in the [Physical Review D](https://ui.adsabs.harvard.edu/abs/2024PhRvD.110f3008P) journal.
-  
-My other interests include Data Science, Machine and Deep Learning, Reinforcement Learning, Statistics and much more. I have completed many projects in these fields, some as a part of my studies and some as a hobby. You can find some of my projects on my [public repositories](https://github.com/johnkou97?tab=repositories). I am also a big fan of Linux and open-source software and believe in a more open and collaborative world. I am always looking for new opportunities to learn and grow, so feel free to contact me if you have any ideas or projects in mind.
+I am a graduate of the [M.Sc. program in Astronomy and Data Science](https://www.universiteitleiden.nl/en/education/study-programmes/master/astronomy/astronomy-and-data-science) at [Leiden University](https://www.universiteitleiden.nl/en), with a [B.Sc. in Physics](https://www.physics.auth.gr/en/) from [Aristotle University of Thessaloniki](https://www.auth.gr/en). My research interests span:  
+
+- **Machine and Deep Learning**  
+- **Reinforcement Learning**  
+- **Data Science and Statistics**  
+- **Astrophysical Simulations**  
+
+I am always excited about open-source projects, collaborative learning, and applying AI to new challenges.
+
+</p>
+
+---
+
 <!-- Languages and Tools -->
 
 <h2 style="color: #44AEFB">Languages and Tools</h2>
@@ -98,27 +118,3 @@ My other interests include Data Science, Machine and Deep Learning, Reinforcemen
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=johnkou97&layout=compact&show_icons=true&theme=algolia&border_radius=20)
 </div>
 <!--  End Stats Cards -->
-
----
-<!-- Begin Footer -->
-<!-- Icons Resources -->
-<!-- https://devicon.dev/ -->
-<div class="footer" align="center" style="margin:15px;">
-    <a href="mailto:jkoutalios@gmail.com" target="_blank">
-        <img style="margin:0 10px 10px 0;" src="https://www.svgrepo.com/show/217146/gmail.svg" alt="gmail" width="40px"/>
-    </a>
-    <a href="mailto:koutalios@mail.strw.leidenuniv.nl" target="_blank">
-        <img style="margin:0 10px 10px 0;" src="https://www.svgrepo.com/show/375840/mail.svg" alt="mail_leiden" width="40px"/>
-    </a>
-    <a href="mailto:iokoutal@physics.auth.gr" target="_blank">
-        <img style="margin:0 10px 10px 0;" src="https://www.svgrepo.com/show/502395/mail.svg" alt="mail_auth" width="40px"/>
-    </a>
-    <a href="https://www.linkedin.com/in/koutalios-ioannis/" target="_blank">
-        <img style="margin:0 10px 10px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="gmail" width="40px"/>
-    </a>
-
-
-
-    
-</div>
-<!-- End Footer -->
