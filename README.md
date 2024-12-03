@@ -99,6 +99,19 @@
 <!-- Begin Publications -->
 <h2 align="center" style="color: #44AEFB;">Publications</h2>
 
+<p align="center">
+  <strong>Predicting binary neutron star postmerger spectra using artificial neural networks</strong><br>
+  Dimitrios Pesios, <u>Ioannis Koutalios</u>, Dimitris Kugiumtzis, Nikolaos Stergioulas<br>
+  <em>Physical Review D, Sep 2024</em><br>
+  DOI: <a href="https://doi.org/10.1103/PhysRevD.110.063008" target="_blank" rel="noopener noreferrer">
+    10.1103/PhysRevD.110.063008
+  </a><br>
+  <a href="https://arxiv.org/abs/2405.09468" target="_blank" rel="noopener noreferrer">
+    arXiv:2405.09468
+  </a>
+</p>
+
+
 <p align="center" style="margin: 0 50px; font-size: 17px;">
 
 <!-- Statistics -->
