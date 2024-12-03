@@ -33,68 +33,68 @@
   I am always excited about open-source projects, collaborative learning, and applying AI to new challenges.
 </p>
 
-<!-- Languages and Tools -->
 <h2 align="center" style="color: #44AEFB;">Languages and Tools</h2>
 
-<div align="center" style="display:block;">
-</div>
-<br>   
-<!-- Icons Resources -->
-<!-- https://devicon.dev/ -->
-<!-- https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ -->
-<div align="center">
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-      <img  alt="Python" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-  </a>
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
-      <img  alt="Tensorflow" height="50px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"/>
-  </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-      <img  alt="Pytorch" height="50px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-      <img  alt="MySQL" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-      <img  alt="C" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-      <img  alt="Git" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-  </a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-      <img  alt="Github" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
-  </a>
-  <a href="https://gitlab.com/" target="_blank" rel="noreferrer">
-      <img  alt="GitLab" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg"/>
-  </a>
-  <br>
-  <a href="http://jupyter.org/" target="_blank" rel="noreferrer">
-      <img  alt="Jupyter" height="50px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"/>
-  </a>
-  <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer">
-      <img  alt="Pytorch" height="50px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg"/>
-  </a>
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
-      <img  alt="Matlab" height="50px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-      <img  alt="Linux" height="50px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
-  </a>
-  <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
-      <img  alt="Ubuntu" height="50px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"/>
-  </a>
-  <a href="https://www.gnu.org/software/bash" target="_blank" rel="noreferrer">
-      <img  alt="Bash" height="50px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
-  </a>
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-      <img  alt="Numpy" height="50px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-      <img  alt="Pandas" height="50px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/>
-  </a>
-</div>
-<br>
-<br>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" valign="top">
+      <strong>Languages, Frameworks and Tools (Expert)</strong><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30"> Python<br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="30"> Jupyter<br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30"> Git<br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="30"> Linux OS<br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="30"> LaTeX<br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30"> VS Code
+    </td>
+    <td align="center" valign="top">
+      <strong>Languages, Frameworks and Tools (Intermediate)</strong><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30"> SQL<br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="30"> C/C++<br>
+      Mathematica<br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="30"> Matlab
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <strong>Machine and Deep Learning</strong><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="30"> PyTorch<br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="30"> TensorFlow<br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="30"> Keras<br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="30"> Scikit-learn<br>
+      JAX
+    </td>
+    <td align="center" valign="top">
+      <strong>Data Science</strong><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="30"> Pandas<br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="30"> Numpy<br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="30"> Matplotlib<br>
+      Scipy<br>
+      Seaborn<br>
+      Nbodykit
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <strong>I.T. and Networking</strong><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="30"> Bash<br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ssh/ssh-original-wordmark.svg" width="30"> SSH<br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="30"> Anaconda<br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30"> Docker<br>
+      JupyterHub
+    </td>
+    <td align="center" valign="top">
+      <strong>Soft Skills</strong><br>
+      Problem Solving<br>
+      Critical Thinking<br>
+      Teamwork<br>
+      Communication<br>
+      Time Management<br>
+      Adaptability
+    </td>
+  </tr>
+</table>
+
+
 
 <!-- Statistics -->
 <h2 align="center" style="color: #44AEFB;">Statistics</h2>
