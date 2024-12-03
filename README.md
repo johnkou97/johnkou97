@@ -18,7 +18,7 @@
 <h2 align="center" style="color: #44AEFB;">About Me</h2>
 
 <p align="center" style="margin: 0 50px; font-size: 17px;">
-  I am a graduate of the <a href="https://www.universiteitleiden.nl/en/education/study-programmes/master/astronomy/astronomy-and-data-science">M.Sc. program in Astronomy and Data Science</a> at <a href="https://www.universiteitleiden.nl/en">Leiden University</a>, with a <a href="https://www.physics.auth.gr/en/">B.Sc. in Physics</a> from <a href="https://www.auth.gr/en">Aristotle University of Thessaloniki</a>. My research interests span:
+  I am a graduate of the <a href="https://www.universiteitleiden.nl/en/education/study-programmes/master/astronomy/astronomy-and-data-science">M.Sc. program in Astronomy and Data Science</a> at <a href="https://www.universiteitleiden.nl/en">Leiden University</a>, with a <a href="https://www.physics.auth.gr/en/">B.Sc. in Physics</a> from <a href="https://www.auth.gr/en">Aristotle University of Thessaloniki</a>. Beyond academia, I am passionate about data science, machine and deep learning, reinforcement learning, and statistics. Many of my projects in these fields have been driven by curiosity and a desire to solve practical problems. My research interests span:
   <br>
   <strong>Machine and Deep Learning</strong>
   <br>
@@ -51,7 +51,9 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30"> SQL<br>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="30"> C/C++<br>
       Mathematica<br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="30"> Matlab
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="30"> Matlab<br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30"> HTML<br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30"> CSS
     </td>
   </tr>
   <tr>
@@ -80,7 +82,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ssh/ssh-original-wordmark.svg" width="30"> SSH<br>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="30"> Anaconda<br>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30"> Docker<br>
-      JupyterHub
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="30"> GitHub
     </td>
     <td align="center" valign="top">
       <strong>Soft Skills</strong><br>
@@ -94,7 +96,10 @@
   </tr>
 </table>
 
+<!-- Begin Publications -->
+<h2 align="center" style="color: #44AEFB;">Publications</h2>
 
+<p align="center" style="margin: 0 50px; font-size: 17px;">
 
 <!-- Statistics -->
 <h2 align="center" style="color: #44AEFB;">Statistics</h2>
