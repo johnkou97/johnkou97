@@ -17,26 +17,14 @@
 <!-- Begin About Me -->
 <h2 align="center" style="color: #44AEFB;">About Me</h2>
 
-<p align="center" style="margin: 0 50px; font-size: 17px;">
-  I am a graduate of the <a href="https://www.universiteitleiden.nl/en/education/study-programmes/master/astronomy/astronomy-and-data-science">M.Sc. program in Astronomy and Data Science</a> at <a href="https://www.universiteitleiden.nl/en">Leiden University</a>, with a <a href="https://www.physics.auth.gr/en/">B.Sc. in Physics</a> from <a href="https://www.auth.gr/en">Aristotle University of Thessaloniki</a>. Beyond academia, I am passionate about data science, machine and deep learning, reinforcement learning, and statistics. Many of my projects in these fields have been driven by curiosity and a desire to solve practical problems. My research interests span:
-  <br>
-  <strong>Machine and Deep Learning</strong>
-  <br>
-  <strong>Reinforcement Learning</strong>
-  <br>
-  <strong>Data Science and Statistics</strong>
-  <br>
-  <strong>Astrophysics and Cosmology</strong>
-</p>
-
-<p align="center" style="margin: 0 50px; font-size: 17px;">
-  I am always excited about open-source projects, collaborative learning, and applying AI to new challenges.
+<p style="margin: 0 50px; font-size: 17px;">
+  I am a graduate of the <a href="https://www.universiteitleiden.nl/en/education/study-programmes/master/astronomy/astronomy-and-data-science">M.Sc. program in Astronomy and Data Science</a> at <a href="https://www.universiteitleiden.nl/en">Leiden University</a>, with a <a href="https://www.physics.auth.gr/en/">B.Sc. in Physics</a> from <a href="https://www.auth.gr/en">Aristotle University of Thessaloniki</a>. Beyond academia, I am passionate about data science, machine and deep learning, reinforcement learning, and statistics. Many of my projects in these fields have been driven by curiosity and a desire to solve practical problems. I am always excited about open-source projects, collaborative learning, and applying AI to new challenges.
 </p>
 
 <!-- Begin Publications -->
 <h2 align="center" style="color: #44AEFB;">Publications</h2>
 
-<p align="center">
+<p>
   <strong>Predicting binary neutron star postmerger spectra using artificial neural networks</strong><br>
   Dimitrios Pesios, <u>Ioannis Koutalios</u>, Dimitris Kugiumtzis, Nikolaos Stergioulas<br>
   <em>Physical Review D, Sep 2024</em><br>
@@ -50,83 +38,83 @@
 <!-- Begin Projects Section -->
 <h2 align="center" style="color: #44AEFB;">Projects</h2>
 
-<p align="center" style="margin: 0 50px; font-size: 17px;">
+<p style="margin: 0 50px; font-size: 17px;">
   A selection of my repositories, showcasing work in <strong>data mining</strong>, <strong>machine learning</strong>, <strong>astrophysics</strong>, and more. Each project reflects my commitment to solving complex problems using cutting-edge tools and techniques.
 </p>
 
-<div align="center">
-  <h3 align="center" style="color: #44AEFB;">🌟 Model-Free Reinforcement Learning for Sensorless Adaptive Optics</h3>
-  <p align="center">
+<div >
+  <h3 style="color: #44AEFB;">🌟 Model-Free Reinforcement Learning for Sensorless Adaptive Optics</h3>
+  <p>
     <a href="https://github.com/johnkou97/AdaptiveOptics" target="_blank" style="color: #44AEFB;">
       <strong>AdaptiveOptics</strong>
     </a><br>
     Reinforcement learning applied to optimize adaptive optics systems in the absence of sensor data.
   </p>
 
-  <h3 align="center" style="color: #44AEFB;">🤖 Deep Learning</h3>
-  <p align="center">
+  <h3 style="color: #44AEFB;">🤖 Deep Learning</h3>
+  <p>
     <a href="https://github.com/johnkou97/DeepLearning" target="_blank" style="color: #44AEFB;">
       <strong>DeepLearning</strong>
     </a><br>
     Experiments with neural network architectures for various machine learning tasks. Also includes implementations of neural networks from scratch.
   </p>
 
-  <h3 align="center" style="color: #44AEFB;">🛠 Data Mining</h3>
-  <p align="center">
+  <h3 style="color: #44AEFB;">🛠 Data Mining</h3>
+  <p>
     <a href="https://github.com/johnkou97/PredictFutureSales" target="_blank" style="color: #44AEFB;">
       <strong>PredictFutureSales</strong>
     </a><br>
     Forecasts store sales in this Kaggle competition using machine learning algorithms like LightGBM and Random Forest.
   </p>
-  <p align="center">
+  <p>
     <a href="https://github.com/johnkou97/RecommenderSystem" target="_blank" style="color: #44AEFB;">
       <strong>RecommenderSystem</strong>
     </a><br>
     Multiple recommender systems in a challenge similar to the classic Netflix Prize.
   </p>
 
-  <h3 align="center" style="color: #44AEFB;">🏆 Kaggle Challenges</h3>
-  <p align="center">
+  <h3 style="color: #44AEFB;">🏆 Kaggle Challenges</h3>
+  <p>
     <a href="https://github.com/johnkou97/Titanic" target="_blank" style="color: #44AEFB;">
       <strong>Titanic</strong>
     </a><br>
     Survival prediction on the Titanic using classical machine learning techniques.
   </p>
-  <p align="center">
+  <p>
     <a href="https://github.com/johnkou97/Spaceship-Titanic" target="_blank" style="color: #44AEFB;">
       <strong>Spaceship-Titanic</strong>
     </a><br>
     Experimenting with "scikit-learn" on the futuristic Spaceship Titanic dataset.
   </p>
 
-  <h3 align="center" style="color: #44AEFB;">🌌 Gravitational Wave Hackathons</h3>
-  <p align="center">
+  <h3 style="color: #44AEFB;">🌌 Gravitational Wave Hackathons</h3>
+  <p>
     <a href="https://github.com/johnkou97/g2net_malta_hackaton" target="_blank" style="color: #44AEFB;">
       <strong>g2net_malta_hackaton</strong>
     </a><br>
     Distinguishing earthquake signals from ambient noise using classical machine learning models.
   </p>
-  <p align="center">
+  <p>
     <a href="https://github.com/johnkou97/g2net_thessaloniki_hackaton" target="_blank" style="color: #44AEFB;">
       <strong>g2net_thessaloniki_hackaton</strong>
     </a><br>
     Working with real gravitational wave data to characterize the Signal-to-Noise Ratio, using machine learning techniques, and carefully tuning hyperparameters.
   </p>
 
-  <h3 align="center" style="color: #44AEFB;">🔭 Astronomical Projects</h3>
-  <p align="center">
+  <h3 style="color: #44AEFB;">🔭 Astronomical Projects</h3>
+  <p>
     <a href="https://github.com/johnkou97/matched-filtering" target="_blank" style="color: #44AEFB;">
       <strong>Matched-filtering</strong>
     </a><br>
     A tool for gravitational wave detection using matched-filtering algorithms.
   </p>
-  <p align="center">
+  <p>
     <a href="https://github.com/johnkou97/stellar_evolution" target="_blank" style="color: #44AEFB;">
       <strong>Stellar Evolution</strong>
     </a><br>
     Simulating stellar life cycles and comparing the evolution of stars with different masses. The MESA code, written in Fortran, is used for this project.
   </p>
-  <p align="center">
+  <p>
     <a href="https://github.com/johnkou97/Exoplanet_project" target="_blank" style="color: #44AEFB;">
       <strong>Exoplanet Project</strong>
     </a><br>
