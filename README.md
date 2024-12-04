@@ -33,6 +33,110 @@
   I am always excited about open-source projects, collaborative learning, and applying AI to new challenges.
 </p>
 
+<!-- Begin Publications -->
+<h2 align="center" style="color: #44AEFB;">Publications</h2>
+
+<p align="center">
+  <strong>Predicting binary neutron star postmerger spectra using artificial neural networks</strong><br>
+  Dimitrios Pesios, <u>Ioannis Koutalios</u>, Dimitris Kugiumtzis, Nikolaos Stergioulas<br>
+  <em>Physical Review D, Sep 2024</em><br>
+  DOI: <a href="https://doi.org/10.1103/PhysRevD.110.063008" target="_blank" rel="noopener noreferrer">
+    10.1103/PhysRevD.110.063008
+  </a><br>
+  <a href="https://arxiv.org/abs/2405.09468" target="_blank" rel="noopener noreferrer">
+    arXiv:2405.09468
+  </a>
+  
+<!-- Begin Projects Section -->
+<h2 align="center" style="color: #44AEFB;">Projects</h2>
+
+<p align="center" style="margin: 0 50px; font-size: 17px;">
+  A selection of my repositories, showcasing work in <strong>data mining</strong>, <strong>machine learning</strong>, <strong>astrophysics</strong>, and more. Each project reflects my commitment to solving complex problems using cutting-edge tools and techniques.
+</p>
+
+<div align="center">
+  <h3 align="center" style="color: #44AEFB;">🌟 Model-Free Reinforcement Learning for Sensorless Adaptive Optics</h3>
+  <p align="center">
+    <a href="https://github.com/johnkou97/AdaptiveOptics" target="_blank" style="color: #44AEFB;">
+      <strong>AdaptiveOptics</strong>
+    </a><br>
+    Reinforcement learning applied to optimize adaptive optics systems in the absence of sensor data.
+  </p>
+
+  <h3 align="center" style="color: #44AEFB;">🤖 Deep Learning</h3>
+  <p align="center">
+    <a href="https://github.com/johnkou97/DeepLearning" target="_blank" style="color: #44AEFB;">
+      <strong>DeepLearning</strong>
+    </a><br>
+    Experiments with neural network architectures for various machine learning tasks.
+  </p>
+
+  <h3 align="center" style="color: #44AEFB;">🏆 Kaggle Challenges</h3>
+  <p align="center">
+    <a href="https://github.com/johnkou97/Titanic" target="_blank" style="color: #44AEFB;">
+      <strong>Titanic</strong>
+    </a><br>
+    Survival prediction on the Titanic using classical machine learning techniques.
+  </p>
+  <p align="center">
+    <a href="https://github.com/johnkou97/Spaceship-Titanic" target="_blank" style="color: #44AEFB;">
+      <strong>Spaceship-Titanic</strong>
+    </a><br>
+    Advanced feature engineering and ensemble models applied to futuristic survival data.
+  </p>
+
+  <h3 align="center" style="color: #44AEFB;">🛠 Data Mining</h3>
+  <p align="center">
+    <a href="https://github.com/johnkou97/PredictFutureSales" target="_blank" style="color: #44AEFB;">
+      <strong>PredictFutureSales</strong>
+    </a><br>
+    Forecasts store sales using machine learning algorithms like LightGBM and Random Forest.
+  </p>
+  <p align="center">
+    <a href="https://github.com/johnkou97/RecommenderSystem" target="_blank" style="color: #44AEFB;">
+      <strong>RecommenderSystem</strong>
+    </a><br>
+    A hybrid recommender system leveraging collaborative and content-based filtering.
+  </p>
+
+  <h3 align="center" style="color: #44AEFB;">🌌 Gravitational Wave Hackathons</h3>
+  <p align="center">
+    <a href="https://github.com/johnkou97/g2net_malta_hackaton" target="_blank" style="color: #44AEFB;">
+      <strong>g2net_malta_hackaton</strong>
+    </a><br>
+    Gravitational wave detection with signal processing and deep learning.
+  </p>
+  <p align="center">
+    <a href="https://github.com/johnkou97/g2net_thessaloniki_hackaton" target="_blank" style="color: #44AEFB;">
+      <strong>g2net_thessaloniki_hackaton</strong>
+    </a><br>
+    Collaborative work on gravitational wave signal analysis during a hackathon.
+  </p>
+
+  <h3 align="center" style="color: #44AEFB;">🔭 Astronomical Projects</h3>
+  <p align="center">
+    <a href="https://github.com/johnkou97/matched-filtering" target="_blank" style="color: #44AEFB;">
+      <strong>Matched-filtering</strong>
+    </a><br>
+    A tool for gravitational wave detection using matched-filtering algorithms.
+  </p>
+  <p align="center">
+    <a href="https://github.com/johnkou97/stellar_evolution" target="_blank" style="color: #44AEFB;">
+      <strong>Stellar Evolution</strong>
+    </a><br>
+    Simulating stellar life cycles with a focus on physical modeling.
+  </p>
+  <p align="center">
+    <a href="https://github.com/johnkou97/Exoplanet_project" target="_blank" style="color: #44AEFB;">
+      <strong>Exoplanet Project</strong>
+    </a><br>
+    Techniques for detecting and analyzing exoplanets using machine learning.
+  </p>
+</div>
+<!-- End Projects Section -->
+
+
+
 <h2 align="center" style="color: #44AEFB;">Languages and Tools</h2>
 
 <table align="center" width="100%">
@@ -95,24 +199,6 @@
     </td>
   </tr>
 </table>
-
-<!-- Begin Publications -->
-<h2 align="center" style="color: #44AEFB;">Publications</h2>
-
-<p align="center">
-  <strong>Predicting binary neutron star postmerger spectra using artificial neural networks</strong><br>
-  Dimitrios Pesios, <u>Ioannis Koutalios</u>, Dimitris Kugiumtzis, Nikolaos Stergioulas<br>
-  <em>Physical Review D, Sep 2024</em><br>
-  DOI: <a href="https://doi.org/10.1103/PhysRevD.110.063008" target="_blank" rel="noopener noreferrer">
-    10.1103/PhysRevD.110.063008
-  </a><br>
-  <a href="https://arxiv.org/abs/2405.09468" target="_blank" rel="noopener noreferrer">
-    arXiv:2405.09468
-  </a>
-</p>
-
-
-<p align="center" style="margin: 0 50px; font-size: 17px;">
 
 <!-- Statistics -->
 <h2 align="center" style="color: #44AEFB;">Statistics</h2>
