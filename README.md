@@ -68,7 +68,21 @@
     <a href="https://github.com/johnkou97/DeepLearning" target="_blank" style="color: #44AEFB;">
       <strong>DeepLearning</strong>
     </a><br>
-    Experiments with neural network architectures for various machine learning tasks.
+    Experiments with neural network architectures for various machine learning tasks. Also includes implementations of neural networks from scratch.
+  </p>
+
+  <h3 align="center" style="color: #44AEFB;">🛠 Data Mining</h3>
+  <p align="center">
+    <a href="https://github.com/johnkou97/PredictFutureSales" target="_blank" style="color: #44AEFB;">
+      <strong>PredictFutureSales</strong>
+    </a><br>
+    Forecasts store sales in this Kaggle competition using machine learning algorithms like LightGBM and Random Forest.
+  </p>
+  <p align="center">
+    <a href="https://github.com/johnkou97/RecommenderSystem" target="_blank" style="color: #44AEFB;">
+      <strong>RecommenderSystem</strong>
+    </a><br>
+    Multiple recommender systems in a challenge similar to the classic Netflix Prize.
   </p>
 
   <h3 align="center" style="color: #44AEFB;">🏆 Kaggle Challenges</h3>
@@ -82,21 +96,7 @@
     <a href="https://github.com/johnkou97/Spaceship-Titanic" target="_blank" style="color: #44AEFB;">
       <strong>Spaceship-Titanic</strong>
     </a><br>
-    Advanced feature engineering and ensemble models applied to futuristic survival data.
-  </p>
-
-  <h3 align="center" style="color: #44AEFB;">🛠 Data Mining</h3>
-  <p align="center">
-    <a href="https://github.com/johnkou97/PredictFutureSales" target="_blank" style="color: #44AEFB;">
-      <strong>PredictFutureSales</strong>
-    </a><br>
-    Forecasts store sales using machine learning algorithms like LightGBM and Random Forest.
-  </p>
-  <p align="center">
-    <a href="https://github.com/johnkou97/RecommenderSystem" target="_blank" style="color: #44AEFB;">
-      <strong>RecommenderSystem</strong>
-    </a><br>
-    A hybrid recommender system leveraging collaborative and content-based filtering.
+    Experimenting with "scikit-learn" on the futuristic Spaceship Titanic dataset.
   </p>
 
   <h3 align="center" style="color: #44AEFB;">🌌 Gravitational Wave Hackathons</h3>
@@ -104,13 +104,13 @@
     <a href="https://github.com/johnkou97/g2net_malta_hackaton" target="_blank" style="color: #44AEFB;">
       <strong>g2net_malta_hackaton</strong>
     </a><br>
-    Gravitational wave detection with signal processing and deep learning.
+    Distinguishing earthquake signals from ambient noise using classical machine learning models.
   </p>
   <p align="center">
     <a href="https://github.com/johnkou97/g2net_thessaloniki_hackaton" target="_blank" style="color: #44AEFB;">
       <strong>g2net_thessaloniki_hackaton</strong>
     </a><br>
-    Collaborative work on gravitational wave signal analysis during a hackathon.
+    Working with real gravitational wave data to characterize the Signal-to-Noise Ratio, using machine learning techniques, and carefully tuning hyperparameters.
   </p>
 
   <h3 align="center" style="color: #44AEFB;">🔭 Astronomical Projects</h3>
@@ -124,18 +124,15 @@
     <a href="https://github.com/johnkou97/stellar_evolution" target="_blank" style="color: #44AEFB;">
       <strong>Stellar Evolution</strong>
     </a><br>
-    Simulating stellar life cycles with a focus on physical modeling.
+    Simulating stellar life cycles and comparing the evolution of stars with different masses. The MESA code, written in Fortran, is used for this project.
   </p>
   <p align="center">
     <a href="https://github.com/johnkou97/Exoplanet_project" target="_blank" style="color: #44AEFB;">
       <strong>Exoplanet Project</strong>
     </a><br>
-    Techniques for detecting and analyzing exoplanets using machine learning.
+    A project on planet evolution for different masses and compositions, using the MESA code.
   </p>
 </div>
-<!-- End Projects Section -->
-
-
 
 <h2 align="center" style="color: #44AEFB;">Languages and Tools</h2>
 
