@@ -73,6 +73,14 @@
     Multiple recommender systems in a challenge similar to the classic Netflix Prize.
   </p>
 
+  <h3 style="color: #44AEFB;">🎄 Advent of Code</h3>
+  <p>
+    <a href="https://github.com/johnkou97/AdventOfCode2024" target="_blank" style="color: #44AEFB;">
+      <strong>AdventOfCode2024</strong>
+    </a><br>
+    Solutions to the Advent of Code 2024 challenges, using Python.
+  </p>
+
   <h3 style="color: #44AEFB;">🏆 Kaggle Challenges</h3>
   <p>
     <a href="https://github.com/johnkou97/Titanic" target="_blank" style="color: #44AEFB;">
