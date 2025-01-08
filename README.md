@@ -51,6 +51,13 @@
     Reinforcement learning applied to optimize adaptive optics systems in the absence of sensor data.
   </p>
 
+  <h3 style="color: #44AEFB;">🪐 Exoplanets and Exomoons</h3>
+  <p>
+    <a href="https://github.com/johnkou97/Exomoons" target="_blank" style="color: #44AEFB;">
+      <strong>Exomoons</strong>
+    </a><br>
+    First Master Thesis project on detecting exomoons in exoplanetary systems using radial velocities.
+
   <h3 style="color: #44AEFB;">🤖 Deep Learning</h3>
   <p>
     <a href="https://github.com/johnkou97/DeepLearning" target="_blank" style="color: #44AEFB;">
@@ -71,6 +78,20 @@
       <strong>RecommenderSystem</strong>
     </a><br>
     Multiple recommender systems in a challenge similar to the classic Netflix Prize.
+  </p>
+
+  <h3 style="color: #44AEFB;">🧮 Numerical Analysis</h3>
+  <p>
+    <a href="https://github.com/johnkou97/NumericalRecipes" target="_blank" style="color: #44AEFB;">
+      <strong>NumericalRecipes</strong>
+    </a><br>
+    Implementations of numerical algorithms from the course "Numerical Recipes" in Python.
+  </p>
+  <p>
+    <a href="https://github.com/johnkou97/numerical-analysis" target="_blank" style="color: #44AEFB;">
+      <strong>numerical-analysis</strong>
+    </a><br>
+    Implementations of numerical algorithms from the course "Numerical Methods" in C and Mathematica.
   </p>
 
   <h3 style="color: #44AEFB;">🎄 Advent of Code</h3>
